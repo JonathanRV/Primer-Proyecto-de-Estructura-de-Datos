@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1398409943 source:c:\users\jonathan\dropbox\tec\materia tec 3º semestre\programacion\c++\1º_progra\main.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	<stdlib.h>
+
